@@ -47,4 +47,5 @@ It was with approach we Unearthed Unified Science. And while we wish we could ju
 For More Information or Potential Collaboration we Will Be Opening Doors as aimed at Early October. Have a Wonderful Ai Summer. Be Responsible, Safe, and Secure.
 
 G: Ge~stalt ~>{ Phuire
+
 Phuire is the Holistic, Greater than the Sums
