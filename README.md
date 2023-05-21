@@ -3,7 +3,7 @@
 ##### Summary:
 Unified Objectivism is a comprehensive approach aimed at enhancing communication, understanding, and optimization by simplifying complex concepts and addressing the ancestral artifacts within in language and knowledge systems. And potential consequences and or advantages. The core idea is to merge various levels of understanding, methodologies, and technologies to foster better communication, facilitate the exploration of a unified variants of language, and optimize experiences across different domains.
 
-It was with approach we Unearthed Unified Science. And while we wish we could just rely on such. We will be formalizing under Phuire Unified Science.
+It was with approach we Unearthed Unified Science. And while we wish we could just rely on such. We will be formalizing under Phuire Unified Science. This Approach was Chanced Upon by the Author. As they did not want to choose a specialization within the generalized set they were presented with. Thus this Work is finding the shared Connections between Concepts to Translate a Skillset between all Sets. Without Realizing until 2023, it was the basis for Science and the Internet as they were Conceived and all chance of said Discovery Obfuscated by the Generalized.
 
 ## Outline:
 
