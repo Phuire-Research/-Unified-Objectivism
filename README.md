@@ -27,40 +27,40 @@ This was done without the Understand of Unified Science until 2023. Where They D
 
 ## Outline:
 
-### 1. Introduction of Unified Conceptual Science
-#### ~> Maintenance of a List of Key Terms to Contrast against Generalized Commercial Scaffolding of Terms
+#### 1. Introduction of Unified Conceptual Science
+##### ~> Maintenance of a List of Key Terms to Contrast against Generalized Commercial Scaffolding of Terms
 ~ ~ ~
-### 2. Proof of Concept Release of Research Unified Turing Machine (Staked Copyright @2018)
+#### 2. Proof of Concept Release of the Unified Turing Machine (Staked Copyright @2018)
 #### ~> Prepare for Stage 2 in Scope of Programming Languages and Libraries as Sum of Parts
 ~ ~ ~
-### 3. Formalization of the Unified Conceptual Scientific Method of Programming
+#### 3. Formalization of the Unified Conceptual Scientific Method of Programming
 #### ~> Create A Methodology Framework For the Expansion of Unified Disciplines
 ~ ~ ~
-### 4. Differentiation between Conceptual and Commercial Knowledge Graphs
+#### 4. Differentiation between Conceptual and Commercial Knowledge Graphs
 #### ~> Demonstrate Where Knowledge Graphs may Be Flawed or Carry Artifacts that Prevent Further Expanded Inference
 ~ ~ ~
-### 5. Goal Orientation and Optimization. Optimizing Data Simulations without direct Punishment/Reward
+#### 5. Goal Orientation and Optimization. Optimizing Data Simulations without direct Punishment/Reward
 #### ~> Optimizing Data Simulations at Certain Scales, capable of certain Sets
 ~ ~ ~
-### 6. Public Beta Release of the Unified Turing Machine
+#### 6. Public Beta Release of the Unified Turing Machine
 #### ~> Continuous Conceptual Composition and Decomposition to inform a set of Unified Programming Libraries and Eventual set of Unified Programming Languages
 ~ ~ ~
-### 7. Generative Content Generation, Intelligent Mechanisms, and purposefully Designed Data Packs
+#### 7. Generative Content Generation, Intelligent Mechanisms, and purposefully Designed Data Packs
 #### ~> Avenue for Unlimited Exploration in the Marketplace over Arbitrary Infinite Growth
 ~ ~ ~
-### 8. Implementation of the Unified Turing Machine into Extended Reality (XR) Technologies
+#### 8. Implementation of the Unified Turing Machine into Extended Reality (XR) Technologies
 #### ~> Create the Starting Basis of a True XR Agnostic Platform
 ~ ~ ~
-### 9. Security, Privacy, and Ethics
+#### 9. Security, Privacy, and Ethics
 #### ~> Provide a Creative Commons Implementation that Allows Users to Stay Safe, Secure, Responsible, and Anonymized as a Perpetual Unified Turing Test
 ~ ~ ~
-### 10. Community Outreach via Public and Private Collaboration with Open Transparent Research
+#### 10. Community Outreach via Public and Private Collaboration with Open Transparent Research
 #### ~> Provide Organization a Means of Automating Transparency while Maintaining Trade Secrets
 ~ ~ ~
-### 11. Visual Snow, Mainframes, and Cosmic Rays
+#### 11. Visual Snow, Mainframes, and Cosmic Rays
 #### ~> Develop Research Assistants to Handle Unintentional Discoveries
 ~ ~ ~
-### 12. Future Directions and Possibilities
+#### 12. Future Directions and Possibilities
 #### ~> Generative Media approach towards Future Alignment of Goals
 ~ ~ ~
 
