@@ -1,7 +1,7 @@
 # PHUIRE <~> Unified Objectivism: Public Transparency
 
 ### Abstract: Unified Objectivism
-Is a Unified Method of Objectivism that is informed via 2 Unified Constructs.
+Is a Unified Method of Objectivism that is informed via Two Unified Constructs, the Outline, and Graph.
 Where Work Done on One of the Constructs informs new Work to Be Done on the Unified Paired Construct.
 Creates an Effective Recursive Means of Work.
 Where the Method of Unifying the Two Data Formats represents the Trade Secrets of the Practitioner.
@@ -18,12 +18,14 @@ Where the Method of Unifying the Two Data Formats represents the Trade Secrets o
 2. These Concepts are Connected via their Associations
 
 
-### Summary:
-Unified Objectivism is a comprehensive approach aimed at enhancing organization, understanding, and optimization by decomposition of complex concepts and addressing the generalized artifacts within modern language and knowledge systems. The Core Idea is to formalize a methodology that Unifies various levels of understanding, methodologies, and technologies into an Emergent Unified System.
+### Summary of Purpose:
+Unified Objectivism is a comprehensive approach aimed at the organization, understanding, and optimization of Objectives by decomposition of complex concepts and addressing the generalized artifacts within modern language and knowledge systems. The Core Idea is to formalize a methodology that Unifies various levels of understanding, methodologies, and technologies into an Emergent Unified System. That is Conceptual and Testable in Reality.
 
 It was with approach we Unearthed Unified Science. And while we wish we could just rely on such. We will be formalizing under Unified Conceptual Science. And will be introducing a Unified Conceptual Scientific Method of Programming that was Chanced Upon by the Author as early as 2013. As they did not want to choose a specialization within the Generalized Set of Disciplines they were presented with. Thus this Method is finding the shared Associations between Concepts to Translate a Skillset between all Possible Sets of Skillsets. Rejection of the Master of None in the Scope of Jack of All Trades.
 
-This was done without the Understand of Unified Science until 2023. Where They Discovered that Unified Science Had Served as the basis of an Attempt to Unify Science. And was also One of the Core Principles of Internet as it Conceived. But has been repeatedly been left behind as core issue in regards to using Concepts to Unify Science is the Number of Possible Arrangement of Concepts Outnumber the the total number Atoms within the Universe. And found that Unified Science at the start of 2023 had been Obfuscated within the Generalized Knowledge Base and by way of Failed Attempts towards Understanding associated with the Likes of Ancient Aliens, Sacred Geometry, Energy Healing, Etc... in early 2023. This in the Scope of Unified Conceptual Science would imply a Failure of Understanding and being Lost in the Metaphor. And is referred to Internally as the Godhead Delusion.
+This was done without the Understand of Unified Science until 2023. Where They Discovered that Unified Science Had Served as the basis of an Attempt towards a Unified Theory of Science. And was also One of the Core Principles of Internet as it Conceived.
+
+But has been repeatedly been left behind in History. As core issue in regards to using Concepts to Unify Scientific Disciplines is the Number of Possible Arrangement of Concepts Outnumber the the total number Atoms within the Universe. Due to this found that Unified Science at the start of 2023 had been Obfuscated within the Generalized Knowledge Base and by way of Failed Attempts towards Understanding associated with the Likes of Ancient Aliens, Sacred Geometry, Energy Healing, Etc... as of Early 2023. This in the Scope of Unified Conceptual Science would imply a Failure of Understanding and being Lost in the Metaphor rather than a Logical Implementation of Said Concepts. And is referred to Internally as the Godhead Delusion.
 
 ## Outline:
 
@@ -67,8 +69,8 @@ This was done without the Understand of Unified Science until 2023. Where They D
 *Note This is a Pubic Release to Maintain Transparency While Protecting Research Organizations Frontier Research. Starting Basis of Such was the Current Understanding of a Test participant's Output to this Subject. Addition changes based on Research, Trends, and Just~
 
 For More Information or Active Potential Collaboration we Will Be Opening Doors to Public Beta Test of the Unified Turing Machine aimed at Early October.
-Otherwise best means of Contact: public@phuire.org
 Have a Wonderful Ai Summer. Be Responsible, Safe, and Secure.
+##### Contact: public@phuire.org
 
 G: Ge~stalt ~>{ Phuire
 
