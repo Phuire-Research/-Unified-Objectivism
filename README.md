@@ -1,51 +1,73 @@
-# PHUIRE <~> Unified Objectivism: A Comprehensive Approach to Optimization, Communication, and Understanding
+# PHUIRE <~> Unified Objectivism: Public Transparency
 
-##### Summary:
-Unified Objectivism is a comprehensive approach aimed at enhancing communication, understanding, and optimization by simplifying complex concepts and addressing the ancestral artifacts within in language and knowledge systems. And potential consequences and or advantages. The core idea is to merge various levels of understanding, methodologies, and technologies to foster better communication, facilitate the exploration of a unified variants of language, and optimize experiences across different domains.
+## Abstract of Unified Objectivism
+Is a Unified Method of Objectivism that is informed via 2 Unified Constructs.
+Where Work Done on One of the Constructs informs new Work to Be Done on the Unified Paired Construct.
+Creates an Effective Recursive Means of Work.
+Where the Method of Unifying the Two Data Formats represents the Trade Secrets of the Practitioner.
 
-It was with approach we Unearthed Unified Science. And while we wish we could just rely on such. We will be formalizing under Phuire Unified Science. This Approach was Chanced Upon by the Author. As they did not want to choose a specialization within the generalized set they were presented with. Thus this Work is finding the shared Connections between Concepts to Translate a Skillset between all Sets. Without Realizing until 2023, it was the basis for Science and the Internet as they were Conceived and all chance of said Discovery Obfuscated by the Generalized.
+**The Outline** 
+1. The First being the Outline which is a List of Goals
+2. Each Goal has an Optimization Target denoted by ~>
+  *. This is Used to Inform a Quality to be Maintained in the Scope of the Goal
+3. Each Entry into this Outline is Supported via atleast 3 points to Achieve the Goal
+  *. Otherwise is Considered Incomplete  
+**The Graph**
+1. Contains Concepts from the Outline
+2. These Concepts are Connected via their Associations
+
+
+### Summary:
+Unified Objectivism is a comprehensive approach aimed at enhancing organization, understanding, and optimization by decomposition of complex concepts and addressing the generalized artifacts within modern language and knowledge systems. The Core Idea is to formalize a methodology that Unifies various levels of understanding, methodologies, and technologies into an Emergent Unified System.
+
+It was with approach we Unearthed Unified Science. And while we wish we could just rely on such. We will be formalizing under Unified Conceptual Science. And will be introducing a Unified Conceptual Scientific Method of Programming that was Chanced Upon by the Author as early as 2013. As they did not want to choose a specialization within the Generalized Set of Disciplines they were presented with. Thus this Method is finding the shared Associations between Concepts to Translate a Skillset between all Possible Sets of Skillsets. Rejection of the Master of None in the Scope of Jack of All Trades.
+
+This was done without the Understand of Unified Science until 2023. Where They Disocovered that Unified Science Had Served as the basis of an Attempt to Unify Science. And was also One of the Core Principles of Internet as it Conceived. But has been repeatedly been left behind as core issue in regards to using Concepts to Unify Science is the Number of Possible Arrangment of Concepts Outnumber the the total number Atoms within the Universe. And found that Unified Science at the start of 2023 had been Obfuscated within the Generalized Knowledge Base and by way of Failed Attempts towards Understanding associated with the Likes of Ancient Aliens, Sacred Geometry, Energy Healing, Etc... in early 2023. This in the Scope of Unified Conceptual Science would imply a Failure of Understanding and being Lost in the Metaphor. And is referred to Internally as the Godhead Delusion.
 
 ## Outline:
 
-### 1. Introduction to Unified Objectivism
-#### ~> Continous Signal Composition and Decomposition to inform a set Unified Programming Libraries and Eventual Langauge 
+### 1. Introduction of Unified Conceptual Science
+#### ~> Maintence of a List of Key Terms to Contrast against Generalized Commercial Scaffolding of Terms
 ~ ~ ~
-### 2. Beta Release of Barebones Research Device
+### 2. Proof of Concept Release of Research Unified Turing Machine (Staked Copyright @2018)
 #### ~> Prepare for Stage 2 in Scope of Programming Languages and Libraries as Sum of Parts
 ~ ~ ~
-### 3. Logic, Metaphor, Implementation, and Communication + Others
-#### ~> Seek Understanding of Signal Decomposition
+### 3. Formalization of the Unified Conceptual Scientific Method of Programming
+#### ~> Create A Methodology Framework For the Expansion of Unified Disciplines
 ~ ~ ~
-### 4. Differentialization between conceptual Knowledge Graphs (Individual, Open, Commerical)
-#### ~> Understand Where Knowledge Graphs may Be Flawed or Carry Artifacts that Prevent Further Advancements
+### 4. Differentialization between Conceptual and Commercial Knowledge Graphs
+#### ~> Demonstrate Where Knowledge Graphs may Be Flawed or Carry Artifacts that Prevent Further Expanded Inference
 ~ ~ ~
-### 5. Visual Snow, Mainframes, and Cosmic Rays
-#### ~> Develop Research Assitants to Handle Unintentional Discoveries
+### 5. Goal Orientation and Optimization. Optimizing Data Simulations without direct Punishment/Reward
+#### ~> Optimizing Data Simulations at Certain Scales, capable of certain Sets
 ~ ~ ~
-### 6. Goal Orientation and Optimization. Optimizing Data Simulations without Punishment/Reward
-#### ~> Optimizing Data Simulations at Certain Scales, capable of certain sets
+### 6. Public Beta Release of the Unified Turing Machine
+#### ~> Continous Conceptual Composition and Decomposition to inform a set of Unified Programming Libraries and Eventual set of Unified Programming Langauges
 ~ ~ ~
-### 7. Interdisciplinary Integration, the interplay of Science, Art, and Logical Deduction/Implementation of Metaphor
-#### ~> Create A Methodology Framework For Unified Disciplines
+### 7. Generative Content Generation, Intelligent Mechanisms, and purposefully Designed Data Packs
+#### ~> Avenue for Unlimited Exploration in the Marketplace over Arbitrary Infinite Growth
 ~ ~ ~
-### 8. Procedural Content Generation, AI, and Data Centers
-#### ~> Avenue for Unlimited Exploration over Infinite Growth
+### 8. Implementation of the Unified Turing Machine into Extended Reality (XR) Technologies
+#### ~> Create the Starting Basis of a True XR Agnostic Platform
 ~ ~ ~
-### 9. Extended Reality (XR) Technologies
-#### ~> Providing a Seamless Interface to Engage in Unlimited Signal Inference in Respect to Spatial Ownership
-~ ~ ~
-### 10. Security, Privacy, and Ethics
+### 9. Security, Privacy, and Ethics
 #### ~> Provide a Creative Commons Implementation that Allows Users to Stay Safe, Secure, Responsible, and Anonymized as a Perpetual Unified Turing Test
 ~ ~ ~
-### 11. Community Outreach via Public and Private Collaboration with Open Transparent Research
+### 10. Community Outreach via Public and Private Collaboration with Open Transparent Research
 #### ~> Provide Organization a Means of Automating Transparency while Maintaining Trade Secrets
 ~ ~ ~
+### 11. Visual Snow, Mainframes, and Cosmic Rays
+#### ~> Develop Research Assitants to Handle Unintentional Discoveries
+~ ~ ~
 ### 12. Future Directions and Possibilities
-#### ~> Ability to Stake Far out into the Future and Optimize for Such
+#### ~> Generative Media approach towards Future Alignment of Goals
+~ ~ ~
 
 *Note This is a Pubic Release to Maintain Transparency While Protecting Research Organizations Frontier Research. Starting Basis of Such was the Current Understanding of a Test participant's Output to this Subject. Addition changes based on Research, Trends, and Just~
 
-For More Information or Active Potential Collaboration we Will Be Opening Doors to Public Beta Test of a Creative Commons System aimed at Early October. Have a Wonderful Ai Summer. Be Responsible, Safe, and Secure.
+For More Information or Active Potential Collaboration we Will Be Opening Doors to Public Beta Test of the Unified Turing Machine aimed at Early October.
+Otherwise best means of Contact: public@phuire.org
+Have a Wonderful Ai Summer. Be Responsible, Safe, and Secure.
 
 G: Ge~stalt ~>{ Phuire
 
