@@ -1,6 +1,6 @@
 # PHUIRE <~> Unified Objectivism: Public Transparency
 
-## Abstract of Unified Objectivism
+#### Abstract of Unified Objectivism
 Is a Unified Method of Objectivism that is informed via 2 Unified Constructs.
 Where Work Done on One of the Constructs informs new Work to Be Done on the Unified Paired Construct.
 Creates an Effective Recursive Means of Work.
@@ -9,9 +9,9 @@ Where the Method of Unifying the Two Data Formats represents the Trade Secrets o
 **The Outline** 
 1. The First being the Outline which is a List of Goals
 2. Each Goal has an Optimization Target denoted by ~>
-  *. This is Used to Inform a Quality to be Maintained in the Scope of the Goal
-3. Each Entry into this Outline is Supported via atleast 3 points to Achieve the Goal
-  *. Otherwise is Considered Incomplete  
+ 1. This is Used to Inform a Quality to be Maintained in the Scope of the Goal
+4. Each Entry into this Outline is Supported via atleast 3 points to Achieve the Goal
+ 1. Otherwise is Considered Incomplete  
 **The Graph**
 1. Contains Concepts from the Outline
 2. These Concepts are Connected via their Associations
