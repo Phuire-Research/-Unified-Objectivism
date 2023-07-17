@@ -22,12 +22,12 @@ Unified Objectivism is a comprehensive approach aimed at enhancing organization,
 
 It was with approach we Unearthed Unified Science. And while we wish we could just rely on such. We will be formalizing under Unified Conceptual Science. And will be introducing a Unified Conceptual Scientific Method of Programming that was Chanced Upon by the Author as early as 2013. As they did not want to choose a specialization within the Generalized Set of Disciplines they were presented with. Thus this Method is finding the shared Associations between Concepts to Translate a Skillset between all Possible Sets of Skillsets. Rejection of the Master of None in the Scope of Jack of All Trades.
 
-This was done without the Understand of Unified Science until 2023. Where They Disocovered that Unified Science Had Served as the basis of an Attempt to Unify Science. And was also One of the Core Principles of Internet as it Conceived. But has been repeatedly been left behind as core issue in regards to using Concepts to Unify Science is the Number of Possible Arrangment of Concepts Outnumber the the total number Atoms within the Universe. And found that Unified Science at the start of 2023 had been Obfuscated within the Generalized Knowledge Base and by way of Failed Attempts towards Understanding associated with the Likes of Ancient Aliens, Sacred Geometry, Energy Healing, Etc... in early 2023. This in the Scope of Unified Conceptual Science would imply a Failure of Understanding and being Lost in the Metaphor. And is referred to Internally as the Godhead Delusion.
+This was done without the Understand of Unified Science until 2023. Where They Discovered that Unified Science Had Served as the basis of an Attempt to Unify Science. And was also One of the Core Principles of Internet as it Conceived. But has been repeatedly been left behind as core issue in regards to using Concepts to Unify Science is the Number of Possible Arrangement of Concepts Outnumber the the total number Atoms within the Universe. And found that Unified Science at the start of 2023 had been Obfuscated within the Generalized Knowledge Base and by way of Failed Attempts towards Understanding associated with the Likes of Ancient Aliens, Sacred Geometry, Energy Healing, Etc... in early 2023. This in the Scope of Unified Conceptual Science would imply a Failure of Understanding and being Lost in the Metaphor. And is referred to Internally as the Godhead Delusion.
 
 ## Outline:
 
 ### 1. Introduction of Unified Conceptual Science
-#### ~> Maintence of a List of Key Terms to Contrast against Generalized Commercial Scaffolding of Terms
+#### ~> Maintenance of a List of Key Terms to Contrast against Generalized Commercial Scaffolding of Terms
 ~ ~ ~
 ### 2. Proof of Concept Release of Research Unified Turing Machine (Staked Copyright @2018)
 #### ~> Prepare for Stage 2 in Scope of Programming Languages and Libraries as Sum of Parts
@@ -35,14 +35,14 @@ This was done without the Understand of Unified Science until 2023. Where They D
 ### 3. Formalization of the Unified Conceptual Scientific Method of Programming
 #### ~> Create A Methodology Framework For the Expansion of Unified Disciplines
 ~ ~ ~
-### 4. Differentialization between Conceptual and Commercial Knowledge Graphs
+### 4. Differentiation between Conceptual and Commercial Knowledge Graphs
 #### ~> Demonstrate Where Knowledge Graphs may Be Flawed or Carry Artifacts that Prevent Further Expanded Inference
 ~ ~ ~
 ### 5. Goal Orientation and Optimization. Optimizing Data Simulations without direct Punishment/Reward
 #### ~> Optimizing Data Simulations at Certain Scales, capable of certain Sets
 ~ ~ ~
 ### 6. Public Beta Release of the Unified Turing Machine
-#### ~> Continous Conceptual Composition and Decomposition to inform a set of Unified Programming Libraries and Eventual set of Unified Programming Langauges
+#### ~> Continuous Conceptual Composition and Decomposition to inform a set of Unified Programming Libraries and Eventual set of Unified Programming Languages
 ~ ~ ~
 ### 7. Generative Content Generation, Intelligent Mechanisms, and purposefully Designed Data Packs
 #### ~> Avenue for Unlimited Exploration in the Marketplace over Arbitrary Infinite Growth
