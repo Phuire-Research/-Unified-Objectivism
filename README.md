@@ -1,5 +1,5 @@
 # PHUIRE <~> Unified Objectivism: Public Transparency
-
+Formalized via **Logical Conceptualism** - Testable Conceptual Logic
 ### Abstract: Unified Objectivism
 Is a Unified Method of Objectivism that is informed via Two Unified Constructs, the Outline, and Graph.
 Where Work Done on One of the Constructs informs new Work to Be Done on the Unified Paired Construct.
