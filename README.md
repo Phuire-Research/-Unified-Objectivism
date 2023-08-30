@@ -30,7 +30,7 @@ But has been repeatedly been left behind in History. As core issue in regards to
 ## Goal Orientation:
 
 #### 1. [X] Introduction of Unified Logical Conceptual Science
-##### ~> Maintencence of this Document and Responsible Timed Release of Materials and Concepts
+##### ~> Maintenance of this Document and Responsible Timed Release of Materials and Concepts
 ~ ~ ~
 #### 2. [X] Release of the Unified Turing Machine as a Concept (Staked Copyright @2018)
 #### ~> Indirect Staking of Said Concept's Existence and Alignment towards a Functional Release
@@ -54,7 +54,7 @@ But has been repeatedly been left behind in History. As core issue in regards to
 #### ~> Create the Starting Basis of the UXR capable as operating as an Independent Platform or Internet in Reverse
 ~ ~ ~
 #### 9. Establishment of an Unified Conceptual Science Platform
-#### ~> Provide a Equitable Implementation that Allows Users to Stay Safe, Secure, Responsible, and Anonymized by way of Continous Exploration of Conceptual Sets
+#### ~> Provide a Equitable Implementation that Allows Users to Stay Safe, Secure, Responsible, and Anonymized by way of Continuous Exploration of Conceptual Sets
 ~ ~ ~
 #### 10. Community Outreach via Public and Private Collaboration with Open Transparent Research
 #### ~> Provide Organization a Means of Automating Transparency while Maintaining Trade Secrets
@@ -62,8 +62,8 @@ But has been repeatedly been left behind in History. As core issue in regards to
 #### 11. Future Directions and Possibilities
 #### ~> Generative Media approach towards Future Alignment of Goals
 ~ ~ ~
-#### 12. Begin Stage 2 by way of Continous Development
-#### ~> Develop Research Assistants that can Continously Refine Copyrighted Material of this Organization
+#### 12. Begin Stage 2 by way of Continuous Development
+#### ~> Develop Research Assistants that can Continuously Refine Copyrighted Material of this Organization
 ~ ~ ~
 
 *Note This is a Pubic Release to Maintain Transparency While Protecting Research Organizations Frontier Research. Starting Basis of Such was the Current Understanding of a Test participant's Output to this Subject. Addition changes based on Research, Trends, and Just~*
