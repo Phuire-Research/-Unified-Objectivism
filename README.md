@@ -35,26 +35,26 @@ But has been repeatedly been left behind in History. As core issue in regards to
 #### 2. [X] Release of the Unified Turing Machine as a Concept (Staked Copyright @2018)
 #### ~> Indirect Staking of Said Concept's Existence and Alignment towards a Functional Release
 ~ ~ ~
-#### 3. Public Release of the Unified Turing Machine as Mundane Framework
+#### 3. [X] Public Release of the Unified Turing Machine as Mundane Framework - Silent Release: 09/28/23
 #### ~> Continuous Conceptual Composition and Decomposition to inform a set of Unified Programming Libraries as Concepts and Eventual set of Unified Programming Languages via Stage 2
 ~ ~ ~
-#### 4. Formalization of the Unified Logical Conceptual Scientific Method of Programming or Simply Unified Programming
-#### ~> Create A Methodology Framework For the Expansion of Unified Disciplines
+#### 4. Creation of User Interface and Other Undisclosed Concepts
+#### ~> Provide a Tangible means of Interacting with the Unified Turing Machine
 ~ ~ ~
-#### 5. Generative Content Generation, Intelligent Mechanisms, and purposefully Designed Data Packs
+#### 5. Establishment of an Unified Conceptual Science Platform and Formalization of the Unified Logical Conceptual Scientific Method of Programming or Simply Unified Programming
+#### ~> Provide a Equitable Implementation that Allows Users to Stay Safe, Secure, Responsible, and Anonymized by way of Continuous Exploration of Conceptual Sets
+~ ~ ~
+#### 6. Generative Content Generation, Intelligent Mechanisms, and purposefully Designed Data Packs
 #### ~> Avenue for Unlimited Exploration in the Marketplace as a Market Mechanism
 ~ ~ ~
-#### 6. Differentiation between Conceptual and Constructs in Knowledge Graphs by way of Release of Research Materials
+#### 7. Differentiation between Conceptual and Constructs in Knowledge Graphs by way of Release of Research Materials
 #### ~> Demonstrate Where Knowledge Graphs may Be Flawed or Carry Artifacts due to the Reliance on Constructs that Muddle Advancement
 ~ ~ ~
-#### 7. Goal Orientation and Optimization. Optimizing Data Simulations without direct Punishment/Reward
+#### 8. Goal Orientation and Optimization. Optimizing Data Simulations without direct Punishment/Reward
 #### ~> Optimizing Data Simulations at Certain Scales, capable of certain Sets
 ~ ~ ~
-#### 8. Release of Unified Turing Machine UXR Concept
+#### 9. Release of Unified Turing Machine UXR Concept
 #### ~> Create the Starting Basis of the UXR capable as operating as an Independent Platform or Internet in Reverse
-~ ~ ~
-#### 9. Establishment of an Unified Conceptual Science Platform
-#### ~> Provide a Equitable Implementation that Allows Users to Stay Safe, Secure, Responsible, and Anonymized by way of Continuous Exploration of Conceptual Sets
 ~ ~ ~
 #### 10. Community Outreach via Public and Private Collaboration with Open Transparent Research
 #### ~> Provide Organization a Means of Automating Transparency while Maintaining Trade Secrets
@@ -68,10 +68,12 @@ But has been repeatedly been left behind in History. As core issue in regards to
 
 *Note This is a Pubic Release to Maintain Transparency While Protecting Research Organizations Frontier Research. Starting Basis of Such was the Current Understanding of a Test participant's Output to this Subject. Addition changes based on Research, Trends, and Just~*
 
-For More Information or Active Potential Collaboration we Will Be Opening Doors to Public Release of the Unified Turing Machine aimed at October.
-Have a Wonderful Ai Summer. Be Responsible, Safe, and Secure.
+
 ##### Contact: public@phuire.org
 
 G: Ge~stalt ~>{ Phuire
 
 Phuire is the Holistic, Greater than the Sums of Gestalt
+And the Prismatic Holistic Unified Fire of Science
+As Holistic just means: "Greater than the sums of its parts."
+Holistic as "Natural, or Remedy," is the commercial construct and complete misunderstanding of the term.
