@@ -71,9 +71,8 @@ But has been repeatedly been left behind in History. As core issue in regards to
 
 ##### Contact: public@phuire.org
 
-G: Ge~stalt ~>{ Phuire
-
-Phuire is the Holistic, Greater than the Sums of Gestalt
-And the Prismatic Holistic Unified Fire of Science
-As Holistic just means: "Greater than the sums of its parts."
-Holistic as "Natural, or Remedy," is the commercial construct and complete misunderstanding of the term.
+## G: Ge~stalt ~>{ Phuire
+* Phuire is the Holistic, Greater than the Sums of Gestalt
+* And the Prismatic Holistic Unified Fire of Science
+* As Holistic just means: "Greater than the sums of its parts."
+* Holistic as "Natural, or Remedy," is the commercial construct and complete misunderstanding of the term.
